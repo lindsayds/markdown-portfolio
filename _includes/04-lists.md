@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+### Favourite things
+
+1. Outside
+2. Animals
+3. Sleep :smiley: 
